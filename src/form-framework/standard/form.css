@@ -14,6 +14,7 @@ ul.form li.right {
   width: 49%;
   clear: right;
   float: right;
+  text-align: left;
 }
 
 ul.form label {
@@ -39,15 +40,16 @@ ul.form span.comment {
 
 ul.form input.text,
 ul.form textarea {
-  width: 100%;
+  width: 98%;
   border: 1px solid #bfbfbf;
-  background: #fff url(../images/input.gif) no-repeat left top;
-  padding: 0.4em;
+  background: #fff url(../images/input_bg.gif) no-repeat 0 0;
+  padding: 3px;
   color: #333;
 }
 
 ul.form input.text:focus,
 ul.form textarea:focus {
+  color: #464646;
   background: #ffffcc url(../images/input-active.gif) no-repeat left top;
   border: 1px solid #aaa;
 }
@@ -112,6 +114,13 @@ ul.form li.radio-horizontal div label {
 ul.form li.radio-horizontal img {
   display: block;
   margin-bottom: 0.3em;
+}
+
+ul.form fieldset
+{
+  border: 1px solid #BFBFBF;
+  color: #333;
+  padding: 5px;
 }
 
 /* @end */
