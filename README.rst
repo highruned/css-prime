@@ -4,7 +4,10 @@ css-useful
 
 Overview
 -----------------
-Variety of cascading style sheets which I find useful. Included: simplified and drop-in grid system, reset, and form frameworks.
+Variety of cascading style sheets which I find useful. Included are simplified and drop-in CSS files.
+#. Grid System
+#. Reset 
+#. Form Frameworks
 
 Grid System
 -----------------
