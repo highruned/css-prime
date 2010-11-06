@@ -8,9 +8,9 @@ Variety of cascading style sheets which I find useful. Included: simplified and 
 
 Grid System
 -----------------
-| 960px - 12 Columns
-| 960px - 16 Columns
-| 800px - 12 Columns
+#. 960px - 12 Columns
+#. 960px - 16 Columns
+#. 800px - 12 Columns
 
 License
 -----------------
