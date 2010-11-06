@@ -116,9 +116,8 @@ ul.form li.radio-horizontal img {
   margin-bottom: 0.3em;
 }
 
-ul.form fieldset
-{
-  border: 1px solid #BFBFBF;
+ul.form fieldset {
+  border: 1px solid #bfbfbf;
   color: #333;
   padding: 5px;
 }
