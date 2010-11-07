@@ -3,7 +3,7 @@ Variety of cascading style sheets which I find useful. Included are simplified a
 
 * Grid System
 * Reset 
-* Form Frameworks
+* Form Framework
 
 ## Grid System
 
