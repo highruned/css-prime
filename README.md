@@ -9,7 +9,7 @@ Variety of cascading style sheets which I find useful. Included are simplified a
 
 * 960px - 12 Columns
 * 960px - 16 Columns
-* 800px - 12 Columns
+* 768px - 12 Columns
 
 ## License
 `css-useful` is released under the MIT license. A copy of the MIT license can be found in the LICENSE file.
