@@ -1,8 +1,11 @@
 /* @group RESET */
 
-*, body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {  
+*, body, div, span, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, 
+input, textarea, p, blockquote, table, thead, tbody, tfoot, tr, th, td,
+form, fieldset, label, legend, object, iframe, em, a, big, small, strong   {  
   margin: 0;
   padding: 0;
+  border: 0;
   outline: none;
 }
 
@@ -29,13 +32,15 @@ caption, th {
   text-align: left;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
   font-weight: normal;
 }
 
-q:before, q:after {
+q:before, q:after,
+blockquote:before, blockquote:after {
   content: '';
+  content: none;
 }
 
 abbr, acronym {
